@@ -1,16 +1,27 @@
 ## Hi there 👋
 
 <!--
-**MatheusTsuki/MatheusTsuki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Matheus e sou uma pessoa apaixonada por tecnologia, programação e tudo que envolve o mundo do desenvolvimento.
 
-Here are some ideas to get you started:
+Atualmente estou aprendendo, praticando e desenvolvendo minhas habilidades na programação. Gosto de explorar novas tecnologias, criar projetos e aprender algo novo a cada dia.
+🚀 Sobre mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+    💻 Estudando programação e desenvolvimento.
+    📚 Sempre buscando aprender coisas novas.
+    🎯 Evoluindo um pouco a cada projeto.
+
+🛠️ Tecnologias e ferramentas
+
+Tecnologias que estou aprendendo e utilizando:
+
+    HTML
+    CSS
+    JavaScript
+    Git e GitHub
+
+📊 Um pouco sobre minha jornada
+
+Ainda estou no começo, mas cada projeto representa um novo aprendizado e mais um passo em direção aos meus objetivos.
+
+Acredito que ninguém começa sabendo tudo, e é por isso que sigo aprendendo, errando, corrigindo e evoluindo.
 -->
